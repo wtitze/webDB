@@ -12,7 +12,7 @@ git add *
 // conferma che vogliamo caricare i file
 git commit -m "first commit" 
 
-// indica in quale repository vanno aggiunti i file
+// indica in quale repository vanno aggiunti i file - da fare solo la prima volta
 git remote add origin https://github.com/<username>/webDB.git
 
 // aggiunge effettivamente su github i file indicati - verranno richesti username e password
